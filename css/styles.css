@@ -1,0 +1,154 @@
+body {
+  text-align: center;
+  background-color: white;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+h1 {
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.span {
+  text-decoration: underline;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 300px;
+  margin-bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.pp {
+  width: 200px;
+  height: 200px;
+}
+
+.alp {
+  font-size: 500%;
+  /*%100 =16px = 1em*/
+}
+
+.pr1 {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.pr2 {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.skill {
+  font-size: 25px;
+}
+
+.program {
+  position: absolute;
+  width: 100px;
+  left: 300px;
+  bottom: 1px;
+}
+
+.language {
+  position: absolute;
+  width: 100px;
+  right: 350px;
+  bottom: 1px;
+}
+
+.mail {
+  position: absolute;
+  width: 20px;
+  left: 590px;
+}
+
+.entry {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 28px;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #E4F9F5;
+  font-size: 10px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 15px;
+  height: 15px;
+  position: relative;
+  bottom: 15px;
+  right: 5px;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  position: relative;
+  padding-top: 20px;
+  margin-top: 50px;
+}
+
+.contact-me {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.footer-link {
+  color: #E4F9F5;
+  margin-right: 15px;
+}
+
+.mail {
+  width: 20px;
+  position: absolute;
+  left: 640px;
+}
+
+.skill-row {
+  position: relative;
+}
+
+.horizons {
+  border-top: 5px dotted grey;
+  width: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
